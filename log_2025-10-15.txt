@@ -1,0 +1,26 @@
+User: bunty
+Date: Wed Oct 15 03:37:01 PM IST 2025
+----------------------------------------
+System Uptime:
+ 15:37:01 up 58 min,  2 users,  load average: 0.10, 0.10, 0.13
+----------------------------------------
+Top 5 CPU Consuming Processes:
+    PID COMMAND         %MEM %CPU
+   1691 gnome-shell     12.5  4.5
+   3878 firefox         19.8  3.6
+   1394 pipewire         0.3  1.7
+   4775 Isolated Web Co 10.6  0.9
+   1119 snapd            1.0  0.6
+----------------------------------------
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           339M  1.9M  337M   1% /run
+/dev/nvme0n1p2   19G   12G  6.2G  65% /
+tmpfs           1.7G  4.0K  1.7G   1% /dev/shm
+efivarfs        256K   33K  224K  13% /sys/firmware/efi/efivars
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G   20K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+/dev/nvme0n1p1  952M  6.4M  945M   1% /boot/efi
+tmpfs           339M  4.1M  335M   2% /run/user/1000
